@@ -1,0 +1,6 @@
+# dependencies
+*/node_modules
+.env
+/packages/*/node_modules/
+.DS_Store
+/packages/*/.DS_Store
